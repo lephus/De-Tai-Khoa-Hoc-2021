@@ -1,0 +1,4 @@
+<?php 
+	echo ('{"nextId":"3","items":[{"id":"1","title":"this is course title","author":"Hao Do","thumbnail":"https://genk.mediacdn.vn/thumb_w/600/2018/flutter-feature-15199173554891874931831-crop1519917399530p.png","overview":"overview course 1 -overview course 2- overview course 3 -overview course 4","link":"link course","updated":"2020-11-02 04:41:55.0","is_disabled":"1"},{"id":"4","title":"kh%C3%B3a+h%E1%BB%8Dc","author":"t%C3%BD","thumbnail":"https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png","overview":"123","link":"123","updated":"2020-11-07 11:29:27.0","is_disabled":"1"},{"id":"5","title":"abc123","author":"abc123","thumbnail":"https://codelearn.io/Upload/Blog/mot-so-trick-cpp-hay-trong-lap-trinh-thi-dau-cho-nguoi-moi-bat-dau-63723696082.4655.PNG","overview":"abc123","link":"abc123","updated":"2020-11-07 11:33:05.0","is_disabled":"1"}]}');
+
+?>

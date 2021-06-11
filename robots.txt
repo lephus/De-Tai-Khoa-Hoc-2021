@@ -1,0 +1,5 @@
+Allow
+Crawl-delay: 
+Sitemap: https://gr3atcode.com/sitemap.xml
+User-agent: *
+Allow :/
